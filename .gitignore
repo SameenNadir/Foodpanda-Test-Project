@@ -1,0 +1,16 @@
+# Java & IDE
+*.class
+bin/
+out/
+.idea/
+*.iml
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Drivers and secrets (do not commit real credentials)
+drivers/chromedriver.exe
+.env
+config.properties
