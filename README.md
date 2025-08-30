@@ -24,5 +24,6 @@ This repository contains structured manual test cases, professional bug reports,
 - This project is for learning and portfolio purposes only.
 
 **Contact**
-- LinkedIn: https://www.linkedin.com/in/your-handle
-- GitHub: https://github.com/your-handle
+- LinkedIn: https://www.linkedin.com/in/sameennadir2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub: https://github.com/SameenNadir/qa-portfolio.git
+- Email: sameen.nadir25@gmail.com
